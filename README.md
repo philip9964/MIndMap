@@ -73,4 +73,4 @@
     * 스릴러
       * 숨바꼭질
       
-![KakaoTalk_20181003_183139502] (./KakaoTalk_20181003_183139502.jpg) 
+![KakaoTalk_20181003_183139502.jpg] (./https://github.com/philip9964/MIndMap/blob/master/KakaoTalk_20181003_183139502.jpg) 
